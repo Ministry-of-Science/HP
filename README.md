@@ -1,6 +1,6 @@
 # HP
 
-[![SciLab](//img.shields.io/badge/%F0%9F%92%BB-SciLab/HP-07d0eb.svg?style=flat-square)](https://git.inc.sh/SciLab/HP)
+[![SciLab](https://img.shields.io/badge/%F0%9F%92%BB-SciLab/HP-07d0eb.svg?style=flat-square)](https://git.inc.sh/SciLab/HP)
 
 Your personal homepage on the 'Net!
 
