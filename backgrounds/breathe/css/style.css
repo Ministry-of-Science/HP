@@ -1,0 +1,15 @@
+body {
+  background-color: #fff;
+  margin: 0px; overflow: hidden;
+  cursor: move;
+}
+.breathe {
+  position: absolute;
+  bottom: 15px;
+  left: 25px;
+  font-family: 'Homenaje', sans-serif;
+  font-size: 1em;
+  color: white;
+  letter-spacing: 30px;
+  text-transform: capitalize;
+}
